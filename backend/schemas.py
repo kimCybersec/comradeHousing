@@ -46,4 +46,4 @@ class BookingDB(BookingCreate):
     id: str = Field(..., alias = 'id')
     
     class Config:
-        allowPopulationByFieldName = True
+        allowPopulationByFielName = True
