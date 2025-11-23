@@ -16,7 +16,7 @@ ComradeHousing is a housing management system designed to simplify user authenti
 
 Clone the repository
 
-git clone https://github.com/yourusername/comradeHousing.git
+git clone https://github.com/kimCybersec/comradeHousing.git
 
 
 Navigate to the project directory
